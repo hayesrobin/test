@@ -6,7 +6,7 @@
      }
      $return_value = addFunction(10, 20);
      
-     addFunction(10, 20);
+     
      echo "Returned value from the function : $return_value";
      
 ?>
